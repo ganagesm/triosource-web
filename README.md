@@ -59,4 +59,3 @@ Contact us/talk to us now
 
 # README
 - Run this project w/ npm install and npm run dev, nextjs13
-# triosource-web
